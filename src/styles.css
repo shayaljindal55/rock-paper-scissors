@@ -1,4 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
 .full-container {
     background-color: #0380fc;
+    min-height: 100vh;
+}
+html *
+{
+   font-size: 20px;
+   font-family: sans-serif !important;
+}
+.white-label {
+    color: white;
+}
+.black-label {
+    color: black;
+}
+button {
+    background-color: #fcc203;
+    border-color: #fcc203;
+    height: 50px;
 }
